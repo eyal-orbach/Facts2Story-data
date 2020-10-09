@@ -5,11 +5,10 @@ Wikipedia Movie Plots - scraped from Wikipedia -
 
 largley based on https://www.kaggle.com/jrobischon/wikipedia-movie-plots
 
-2019/2020 movies scraped independently (blind set)
+blind/blined_proofed data sets contain movies that were released after june 2019 and were scraped independently.
 
 
 5 top salient facts are taken from the artifacts produced when applying the SalIE framework 
-
 https://github.com/mponza/SalIE
 Marco Ponza, Luciano Del Corro, Gerhard Waikum
 Facts That Matter
