@@ -1,5 +1,7 @@
 # Facts2Story-data
-The data used for the expirements in "Details2Story: Controlling Text Generation by Key Details"
+The data used for the expirements in "Facts2Story: Controlling Text Generation by Key Facts"
+Presented in Coling2020
+https://www.aclweb.org/anthology/2020.coling-main.211/
 
 Wikipedia Movie Plots - scraped from Wikipedia - 
 
